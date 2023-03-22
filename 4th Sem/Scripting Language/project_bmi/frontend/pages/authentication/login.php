@@ -55,7 +55,7 @@ $password_error = "";
             <div class="form-group">
               <label for="">Email</label>
               <input class="form-control my-2" name="email" type="email" />
-              <p class="text-danger font-italic" >
+              <p class="text-danger font-italic font-weight-light" >
                 <?php 
                   if($email_error){
                     echo $email_error;
@@ -71,7 +71,7 @@ $password_error = "";
                 name="password"
                 type="password"
               />
-             <p class="text-danger font-italic">
+             <p class="text-danger font-italic font-weight-light">
              <?php 
                
                if($password_error){
