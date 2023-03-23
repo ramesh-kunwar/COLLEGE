@@ -51,6 +51,7 @@ if (isset($_POST["convert"])) {
             <?php if ($errorMessage != "") { ?>
                 <div class="alert alert-danger">
                     <?php echo $errorMessage; ?>
+                    <a href="./index.php" class="btn btn-primary col-12 mt-5">Back</a>
                 </div>
 
             <?php } ?>
