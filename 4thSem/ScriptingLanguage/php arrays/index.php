@@ -27,6 +27,9 @@ $studentDetails = array(
     "address" => "Dhobighat"
 );
 
+// Multi-dimensional Array
+$multiDimensionalArray = [[1, "Ramesh Kunwar", "Dhobighat", "DAV"], [2, "Nischal Shakya", "Jwalakhel"], [3, "Pramod Thapa", "Kalanki"]];
+
 ?>
 
 <!DOCTYPE html>
@@ -93,6 +96,20 @@ $studentDetails = array(
                 <span class="fw-bold"> Address: </span> <?php echo $studentDetails['address']; ?>
             </p>
 
+        </div>
+        <div class="card p-5 mt-5">
+            <h2 class="text-danger">3. Multi Dimensional Array</h2>
+            <hr>
+            <span>
+                <?php
+                for ($i = 0; $i < count($multiDimensionalArray); $i++) {
+                    for ($j = 0; $j < count($multiDimensionalArray[$i]); $j++) {  ?>
+                        <span class=""><?php echo $multiDimensionalArray[$i][$j]; ?></span>
+                    <?php  } ?>
+                    <hr>
+                <?php }
+                ?>
+            </span>
         </div>
     </div>
 
