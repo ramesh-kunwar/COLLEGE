@@ -13,7 +13,7 @@ $data = [];
 // 2. with data
 $lakes = array("Phewa", "Rara", "Begnas", "Tilicho");
 $sports = ["Futsal", "Volleyball", "Tennis", "Kabbadi", "Crickent"];
-
+sort($sports);
 // associative array
 // key value pair
 // key must be unique and must follow rule of identifier
@@ -27,8 +27,25 @@ $studentDetails = array(
     "address" => "Dhobighat"
 );
 
+
 // Multi-dimensional Array
 $multiDimensionalArray = [[1, "Ramesh Kunwar", "Dhobighat", "DAV"], [2, "Nischal Shakya", "Jwalakhel"], [3, "Pramod Thapa", "Kalanki"]];
+
+
+
+// sorting in array
+
+// sort() - ascending order
+// resort() - descending order
+// asort() - ascending order of associative array by value
+// ksort() - ascending order of associative array by key
+// arsort() - descending order of associative array by value
+// krsort() - descending order of associative array by key
+
+$places = ["kathmandu", "Lalitpur", "Bhaktapur", "Pokhara", "Butwal"];
+ sort($places);
+
+
 
 ?>
 
