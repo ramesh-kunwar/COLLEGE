@@ -1,6 +1,6 @@
 <?php 
 
-$dbName = "demo";
+$dbName = "playerDB";
 $dbHost = "localhost";
 $dbUser = "root";
 $dbPassword = "";

@@ -1,5 +1,5 @@
 <?php 
-$dbName = "demo";
+$dbName = "playerDB";
 $dbHost = "localhost";
 $dbUser = "root";
 $dbPassword = "";
@@ -16,10 +16,11 @@ if (!$connect) {
 
 
 // create table
-$sql = "CREATE TABLE ccCountry(
-	countryId int not null PRIMARY KEY AUTO_INCREMENT,
-    countryName varchar(255) not null,
-    countryCode varchar(255) not null  
+$sql = "CREATE TABLE playerDetails(
+	ID int not null PRIMARY KEY AUTO_INCREMENT,
+    Name varchar(255) not null,
+    Phone int not null,
+    Address varchar(255) not null  
 )";
 
 $response = mysqli_query($connect, $sql);
