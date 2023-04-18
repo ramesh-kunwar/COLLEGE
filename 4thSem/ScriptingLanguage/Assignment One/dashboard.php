@@ -6,17 +6,11 @@ session_start();
 function logout()
 {
     session_destroy();
-    header("location: try.php");
+    header("location: login.php");
 }
 
 
-if (!$_SESSION['grantAccess']) {
-    echo "Access denied";
-} else {
-    echo "Access provided";
-}
-
-if (isset($_SESSION['accessGrant'])) {
+if (isset($_POST["logout"])) {
     logout();
 }
 
@@ -56,19 +50,20 @@ if (isset($_SESSION['accessGrant'])) {
 
             // check if access is given or not
 
-            if (!isset($_SESSION['grantAccess'])) { ?>
+            if (!isset($_SESSION['accessGrant'])) { ?>
 
                 <h1> <?php echo "Access Denied"; ?></h1>
                 <a href="login.php" class="btn btn-primary cols-4 text-center">Go Back</a>
             <?php } else { ?>
 
                 <h1> <?php echo "Welcome To Dashboard"; ?></h1>
+                <form action="" method="post">
+                    <input type="submit" value="Logout" name="logout" class="btn btn-primary col-12">
+                </form>
             <?php  }
             ?>
 
-            <form action="" method="post">
-                <input type="submit" value="Logout" name="logout">
-            </form>
+
 
         </div>
     </div>

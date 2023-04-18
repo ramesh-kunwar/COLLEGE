@@ -1,60 +1,68 @@
 <?php
 
-
 session_start();
 
-// get email and password
+// root email and password
+$rootEmail = "ramesh@gmail.com";
+$rootPassword = "ramesh";
+
+// get credentials
+$email = $_POST['email'];
+$password = $_POST['password'];
+
+
 function checkCredentials()
 {
-    $rootEmail = "ramesh@gmail.com";
-    $rootPassword = "ramesh";
 
-    // check if email and pw match
+    if (($GLOBALS["rootEmail"]  != $GLOBALS["email"]) && ($GLOBALS["rootPassword"] != $GLOBALS["password)"])) {
 
-    if ($_POST['email'] == $rootEmail && $_POST['password'] == $rootPassword) {
-        $_SESSION['grantAccess'] = true;
-        header("location: dashboard.php");
-        // session_destroy();
+        return false;
+    } else {
+
         return true;
     }
 }
 
-// if email pw doesn't match ->  count login attempts using session
-function countAttempt()
+
+function login()
 {
+    echo "login";
 
-    if (!checkCredentials()) {
-        echo "doesn't match";
-        if (!$_SESSION['count']) {
-            $_SESSION['count'] = 1;
-        } else {
-            $count = $_SESSION['count'] + 1;
+    if (checkCredentials()) {
+        session_start();
+        $_SESSION['accessGrant'] = true;
 
-            $_SESSION['count'] = $count;
-        }
 
-        return $_SESSION['count'];
+        header("location: dashboard.php");
+    } else {
+        $updateCookieValue = $_COOKIE["Count"] + 1;
+        setcookie("Count", $updateCookieValue, time() * (10) + 1);
     }
 }
 
 
-
-
-
-
-
-
-
+function blockUser()
+{
+    if ($_COOKIE["Count"] >= 3) {
+        return true;
+    }
+}
 
 if (isset($_POST['submit'])) {
-    $attempt = countAttempt();
-    // countAttempt();
-    if ($attempt >= 3) {
-        // set session for block;
-        // $_SESSION['block'] = true;
-        setcookie("BlockedCookie", "you have been blocked", time() + (10 * 1));
-    }
+    // echo "submit";
+    setcookie("Count", 0, time() * (10) + 1);
+
+
+    // checkCredentials();
+    login();
+    blockUser();
+    // session_start();
+
+
+    // header("location: demo.php");
 }
+
+
 
 ?>
 
@@ -77,7 +85,7 @@ if (isset($_POST['submit'])) {
 
             <!-- send message if user is blocked -->
             <?php
-            if ($_COOKIE["BlockedCookie"]) { ?>
+            if (blockUser()) { ?>
                 <p class="alert alert-danger">
                     <?php echo "You have been BLOCKED"; ?>
                 </p>
@@ -103,7 +111,7 @@ if (isset($_POST['submit'])) {
             <!-- <input type="submit" value="Login" name='submit' class="btn btn-primary mt-4 col-12"> -->
 
             <?php
-            if ($_COOKIE['BlockedCookie']) { ?>
+            if (blockUser()) { ?>
                 <input type="submit" name="submit" value="Login" disabled class="btn btn-primary mt-4 col-12">
 
                 </input>
