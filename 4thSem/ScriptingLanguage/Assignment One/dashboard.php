@@ -3,11 +3,23 @@
 
 session_start();
 
-if ($_SESSION['grantAccess']) {
-    echo "Access provided";
-} else {
-    echo "Access denied";
+function logout()
+{
+    session_destroy();
+    header("location: try.php");
 }
+
+
+if (!$_SESSION['grantAccess']) {
+    echo "Access denied";
+} else {
+    echo "Access provided";
+}
+
+if (isset($_SESSION['accessGrant'])) {
+    logout();
+}
+
 
 
 ?>
@@ -53,6 +65,10 @@ if ($_SESSION['grantAccess']) {
                 <h1> <?php echo "Welcome To Dashboard"; ?></h1>
             <?php  }
             ?>
+
+            <form action="" method="post">
+                <input type="submit" value="Logout" name="logout">
+            </form>
 
         </div>
     </div>
