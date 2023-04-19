@@ -49,17 +49,13 @@ function blockUser()
 }
 
 if (isset($_POST['submit'])) {
-    // echo "submit";
+
+    // set cookie count 0 by default
     setcookie("Count", 0, time() * (10) + 1);
 
-
-    // checkCredentials();
     login();
     blockUser();
-    // session_start();
 
-
-    // header("location: demo.php");
 }
 
 

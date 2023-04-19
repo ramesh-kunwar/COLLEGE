@@ -1,73 +1,93 @@
 <?php
+$dbName = "playerDB";
+
+$name = $_POST['name'];
+$phone = $_POST['phone'];
+$address = $_POST['address'];
+$sports = $_POST['sports'];
+
+
+$conn = mysqli_connect("localhost", "root", "", $dbName);
+// make a conneciton
+if (!$conn) {
+    die("Database Connection failure");
+}
+
+
 function insertData()
 {
-    $dbName = "playerDB";
 
-    $name = $_POST['name'];
-    $phone = $_POST['phone'];
-    $address = $_POST['address'];
 
-    // make a conneciton
-    $conn = mysqli_connect("localhost", "root", "", $dbName);
-    if (!$conn) {
-
-        die("Database Connection failure");
-        // mysqli_error();
-    } else {
-        echo "Database Connection success";
-    }
-
-    $sql = "INSERT INTO `playerDetails` ( `Name`, `Phone`, `Address`) VALUES ( '$name', '$phone', '$address')";
-    $response = mysqli_query($conn, $sql);
+    $sql = "INSERT INTO `playerDetails` ( `Name`, `Phone`, `Address`,`sports`) VALUES ( '$GLOBALS[name]', '$GLOBALS[phone]', '$GLOBALS[address]', '$GLOBALS[sports]')";
+    $response = mysqli_query($GLOBALS['conn'], $sql);
 
     if ($response) {
-        echo "Data inserted successfully";
+
+        echo ("<div class='alert alert-success'> Data Inserted Successfully</div>");
     } else {
-        echo "Data insertion failed";
+        echo ("<div class='alert alert-success'> Data Insertion Failed</div>");
     }
 }
+
+
+function displayResult()
+{
+    $sql = 'SELECT * FROM playerDetails';
+    $response = mysqli_query($GLOBALS['conn'], $sql);
+
+
+    if (mysqli_num_rows($response) > 0) { ?>
+        <table class="table">
+
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Phone</th>
+                    <th scope="col">Address</th>
+                </tr>
+            </thead>
+            <?php while ($data = mysqli_fetch_assoc($response)) {
+
+            ?>
+
+
+
+                <tbody>
+                    <tr>
+                        <th scope="row"><?php echo $data['ID']; ?></th>
+                        <td><?php echo ($data['ID']); ?></td>
+                        <td><?php echo $data['Name']; ?></td>
+                        <td><?php echo $data['Phone']; ?></td>
+                        <td><?php echo $data['Address']; ?></td>
+                        <td><?php echo $data['sports']; ?></td>
+                        <td>
+                            <form action="" method="post">
+                                <!-- <input type='submit' class="btn btn-danger" value="delete" name='delete' onclick="deleteData()"> -->
+                        <td><a href="delete.php?id=<?php echo $data['ID']; ?> ">Delete</a></td>
+
+                        </form>
+                        </td>
+                    </tr>
+
+
+                </tbody>
+
+
+            <?php } ?>
+        </table>
+<?php }
+}
+
 
 if (isset($_POST['addDetails'])) {
 
-
-
-
-    // $sql = "INSERT INTO playerDetails ('countryId','name','phone','address') VALUES(1,`Ramesh`, 993423,`dfa`";
-
     insertData();
-    // displayData();
-
-    echo "-----------------<br>";
 }
 
-if (isset($_POST['showDetails'])) {
-    echo "hello";
-    // displayData();
-}
-
-function deleteData()
-{
-    $dbName = "playerDB";
-    $conn = mysqli_connect("localhost", "root", "", $dbName);
 
 
 
-    $sql = 'SELECT * FROM playerDetails';
-    $response = mysqli_query($conn, $sql);
-
-    $data = mysqli_fetch_all($response, MYSQLI_ASSOC);
-    echo $data[0];
-
-
-    foreach ($data as $item) {
-        echo  $item['name'] . "<br>";
-    }
-}
-
-if (isset($_POST['delete'])) {
-
-    deleteData();
-}
 
 ?>
 
@@ -101,10 +121,14 @@ if (isset($_POST['delete'])) {
                 <label>Address</label>
                 <input type="text" name="address" class="form-control">
             </div>
+            <div class="mt-3">
+                <label>Sports</label>
+                <input type="text" name="sports" class="form-control">
+            </div>
 
             <div class="mt-3 d-flex justify-content-center gap-4">
                 <input type="submit" value="Add Details" name='addDetails' class="btn btn-primary ">
-                <input type="submit" onclick="displayData()" value="Show Details" name='showDetails' class="btn btn-danger ">
+                <input type="submit" value="Show Details" name='showDetails' class="btn btn-danger ">
 
             </div>
 
@@ -115,8 +139,14 @@ if (isset($_POST['delete'])) {
 
         <!-- output -->
         <div class="mt-5">
-            <h1>Output</h1>
-            <?php displayData(); ?>
+            <h1></h1>
+            <?php
+
+            if (isset($_POST['showDetails'])) {
+                displayResult();
+            }
+
+            ?>
         </div>
     </div>
 
@@ -127,60 +157,3 @@ if (isset($_POST['delete'])) {
 
 
 <?php
-
-// DB NAME = "playerDB";
-// table name = "playerDetails";
-
-
-function displayData()
-{
-
-
-    $dbName = "playerDB";
-    $conn = mysqli_connect("localhost", "root", "", $dbName);
-
-
-
-    $sql = 'SELECT * FROM playerDetails';
-    $response = mysqli_query($conn, $sql);
-
-
-    if (mysqli_num_rows($response) > 0) { ?>
-        <table class="table">
-
-            <thead>
-                <tr>
-                    <th scope="col">ID</th>
-                    <th scope="col">Name</th>
-                    <th scope="col">Phone</th>
-                    <th scope="col">Address</th>
-                </tr>
-            </thead>
-            <?php while ($data = mysqli_fetch_assoc($response)) { ?>
-
-
-
-                <tbody>
-                    <tr>
-                        <th scope="row"><?php echo $data['ID']; ?></th>
-                        <td><?php echo $data['Name']; ?></td>
-                        <td><?php echo $data['Phone']; ?></td>
-                        <td><?php echo $data['Address']; ?></td>
-                        <td>
-                            <form action="" method="post">
-                                <input type='submit' class="btn btn-danger" value="delete" name='delete' onclick="deleteData()"></input>
-                                <!-- <td><a href='delete.php?id=".$result['id']."' id='btn'>Delete</a></td>   -->
-
-                            </form>
-                        </td>
-                    </tr>
-
-
-                </tbody>
-
-
-            <?php } ?>
-        </table>
-<?php }
-}
-?>

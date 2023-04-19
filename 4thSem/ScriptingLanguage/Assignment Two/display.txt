@@ -1,0 +1,45 @@
+function displayResult()
+{
+    $sql = 'SELECT * FROM playerDetails';
+    $response = mysqli_query($GLOBALS['conn'], $sql);
+
+
+    if (mysqli_num_rows($response) > 0) { ?>
+        <table class="table">
+
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Phone</th>
+                    <th scope="col">Address</th>
+                </tr>
+            </thead>
+            <?php while ($data = mysqli_fetch_assoc($response)) { ?>
+
+
+
+                <tbody>
+                    <tr>
+                        <th scope="row"><?php echo $data['ID']; ?></th>
+                        <td><?php echo $data['Name']; ?></td>
+                        <td><?php echo $data['Phone']; ?></td>
+                        <td><?php echo $data['Address']; ?></td>
+                        <td><?php echo $data['sports']; ?></td>
+                        <td>
+                            <form action="" method="post">
+                                <input type='submit' class="btn btn-danger" value="delete" name='delete' onclick="deleteData()"></input>
+                                <!-- <td><a href='delete.php?id=".$result['id']."' id='btn'>Delete</a></td>   -->
+
+                            </form>
+                        </td>
+                    </tr>
+
+
+                </tbody>
+
+
+            <?php } ?>
+        </table>
+<?php }
+}
