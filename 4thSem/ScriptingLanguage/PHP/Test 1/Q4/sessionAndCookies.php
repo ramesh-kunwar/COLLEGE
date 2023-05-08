@@ -11,37 +11,23 @@ $_SESSION['userName'] = $userName;
 $_SESSION['password'] = $password;
 $_SESSION['userType'] = $userType;
 
-echo $_SESSION['password'];
+// displaying data from session
+echo "DATA IN SESSION ARE..... <br>";
+echo $_SESSION['UserName'] . "<br>";
+echo $_SESSION['password'] . "<br>";
+echo $_SESSION['userType'] . "<br>";
 
-// echo $userName;
+// storing in cookie
+setcookie("UserName", "Hrishik");
+setcookie("Password", "hrishikRoot");
+setcookie("UserType", "Student");
 
+// displaying cookie value
+echo "DATA IN COOKIES ARE..... <br>";
+
+echo $_COOKIE['UserName'] . "<br>";
+echo $_COOKIE['Password'] . "<br>";
+echo $_COOKIE['UserType'] . "<br>";
 
 
 ?>
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="../bootstrap.min.css">
-
-</head>
-
-<body>
-
-    <div class="container">
-        <h1>Calculate Area </h1>
-        <form action="sessionAndCookies.php" method="POST">
-
-
-
-        </form>
-    </div>
-
-</body>
-
-</html>
