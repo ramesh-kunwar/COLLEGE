@@ -1,0 +1,4 @@
+Lecture 3
+- how to run specific files from different entry point ?
+    <StartupObject>Conditionals.Conditionals</StartupObject>
+  - use namespace.className inside <StartupObject>  -> this file is inside .csproj file
