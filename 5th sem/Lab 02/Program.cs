@@ -25,6 +25,17 @@ namespace Lab2
             Console.Write("Enter the second number: ");
             int num2 = Convert.ToInt32(Console.ReadLine());
 
+            
+            Type num1Type = num1.GetType();
+
+            Type num2Type = num2.GetType();
+
+            if (num1Type !== System.Int32 && num2Type !== System.Int32)
+            {
+                Console.WriteLine("num1 is not an integer");
+                return;
+            }
+
 
             int choice = ChoiceMenu();
 
