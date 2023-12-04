@@ -1,0 +1,15 @@
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/obj/Debug/net7.0/class5-staticExample.csproj.AssemblyReference.cache
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/obj/Debug/net7.0/class5-staticExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/obj/Debug/net7.0/class5-staticExample.AssemblyInfoInputs.cache
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/obj/Debug/net7.0/class5-staticExample.AssemblyInfo.cs
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/obj/Debug/net7.0/class5-staticExample.csproj.CoreCompileInputs.cache
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/bin/Debug/net7.0/class5-staticExample
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/bin/Debug/net7.0/class5-staticExample.deps.json
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/bin/Debug/net7.0/class5-staticExample.runtimeconfig.json
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/bin/Debug/net7.0/class5-staticExample.dll
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/bin/Debug/net7.0/class5-staticExample.pdb
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/obj/Debug/net7.0/class5-staticExample.dll
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/obj/Debug/net7.0/refint/class5-staticExample.dll
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/obj/Debug/net7.0/class5-staticExample.pdb
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/obj/Debug/net7.0/class5-staticExample.genruntimeconfig.cache
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/class5-staticExample/obj/Debug/net7.0/ref/class5-staticExample.dll

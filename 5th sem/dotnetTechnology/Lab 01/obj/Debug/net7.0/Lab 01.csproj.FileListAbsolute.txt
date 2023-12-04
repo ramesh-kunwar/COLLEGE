@@ -1,0 +1,15 @@
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/bin/Debug/net7.0/Lab 01
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/bin/Debug/net7.0/Lab 01.deps.json
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/bin/Debug/net7.0/Lab 01.runtimeconfig.json
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/bin/Debug/net7.0/Lab 01.dll
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/bin/Debug/net7.0/Lab 01.pdb
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/obj/Debug/net7.0/Lab 01.csproj.AssemblyReference.cache
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/obj/Debug/net7.0/Lab 01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/obj/Debug/net7.0/Lab 01.AssemblyInfoInputs.cache
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/obj/Debug/net7.0/Lab 01.AssemblyInfo.cs
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/obj/Debug/net7.0/Lab 01.csproj.CoreCompileInputs.cache
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/obj/Debug/net7.0/Lab 01.dll
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/obj/Debug/net7.0/refint/Lab 01.dll
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/obj/Debug/net7.0/Lab 01.pdb
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/obj/Debug/net7.0/Lab 01.genruntimeconfig.cache
+/Users/rameshkunwar/Desktop/Programming/dotnetTechnology/Lab 01/obj/Debug/net7.0/ref/Lab 01.dll
