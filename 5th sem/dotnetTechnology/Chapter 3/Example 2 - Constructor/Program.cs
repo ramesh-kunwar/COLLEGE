@@ -16,12 +16,6 @@ namespace ConstructorExample
 
 
         // default constructor
-        // public Person()
-        // {
-        //     Name = "unknown";
-        //     Age = 0;
-        //     System.Console.WriteLine("Default constructor called");
-        // }
 
         public Person()
         {
