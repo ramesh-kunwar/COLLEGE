@@ -1,0 +1,15 @@
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/bin/Debug/net7.0/Lecture 07 - Inheritance
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/bin/Debug/net7.0/Lecture 07 - Inheritance.deps.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/bin/Debug/net7.0/Lecture 07 - Inheritance.runtimeconfig.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/bin/Debug/net7.0/Lecture 07 - Inheritance.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/bin/Debug/net7.0/Lecture 07 - Inheritance.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/obj/Debug/net7.0/Lecture 07 - Inheritance.csproj.AssemblyReference.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/obj/Debug/net7.0/Lecture 07 - Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/obj/Debug/net7.0/Lecture 07 - Inheritance.AssemblyInfoInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/obj/Debug/net7.0/Lecture 07 - Inheritance.AssemblyInfo.cs
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/obj/Debug/net7.0/Lecture 07 - Inheritance.csproj.CoreCompileInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/obj/Debug/net7.0/Lecture 07 - Inheritance.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/obj/Debug/net7.0/refint/Lecture 07 - Inheritance.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/obj/Debug/net7.0/Lecture 07 - Inheritance.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/obj/Debug/net7.0/Lecture 07 - Inheritance.genruntimeconfig.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 07 - Inheritance/obj/Debug/net7.0/ref/Lecture 07 - Inheritance.dll
