@@ -1,0 +1,15 @@
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/bin/Debug/net7.0/Lab 05 - Inheritance
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/bin/Debug/net7.0/Lab 05 - Inheritance.deps.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/bin/Debug/net7.0/Lab 05 - Inheritance.runtimeconfig.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/bin/Debug/net7.0/Lab 05 - Inheritance.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/bin/Debug/net7.0/Lab 05 - Inheritance.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/obj/Debug/net7.0/Lab 05 - Inheritance.csproj.AssemblyReference.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/obj/Debug/net7.0/Lab 05 - Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/obj/Debug/net7.0/Lab 05 - Inheritance.AssemblyInfoInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/obj/Debug/net7.0/Lab 05 - Inheritance.AssemblyInfo.cs
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/obj/Debug/net7.0/Lab 05 - Inheritance.csproj.CoreCompileInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/obj/Debug/net7.0/Lab 05 - Inheritance.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/obj/Debug/net7.0/refint/Lab 05 - Inheritance.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/obj/Debug/net7.0/Lab 05 - Inheritance.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/obj/Debug/net7.0/Lab 05 - Inheritance.genruntimeconfig.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 05 - Inheritance/obj/Debug/net7.0/ref/Lab 05 - Inheritance.dll
