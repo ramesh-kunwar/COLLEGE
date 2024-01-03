@@ -1,0 +1,15 @@
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/obj/Debug/net7.0/Lecture 09 - Generic Methods.csproj.AssemblyReference.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/obj/Debug/net7.0/Lecture 09 - Generic Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/obj/Debug/net7.0/Lecture 09 - Generic Methods.AssemblyInfoInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/obj/Debug/net7.0/Lecture 09 - Generic Methods.AssemblyInfo.cs
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/obj/Debug/net7.0/Lecture 09 - Generic Methods.csproj.CoreCompileInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/bin/Debug/net7.0/Lecture 09 - Generic Methods
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/bin/Debug/net7.0/Lecture 09 - Generic Methods.deps.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/bin/Debug/net7.0/Lecture 09 - Generic Methods.runtimeconfig.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/bin/Debug/net7.0/Lecture 09 - Generic Methods.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/bin/Debug/net7.0/Lecture 09 - Generic Methods.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/obj/Debug/net7.0/Lecture 09 - Generic Methods.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/obj/Debug/net7.0/refint/Lecture 09 - Generic Methods.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/obj/Debug/net7.0/Lecture 09 - Generic Methods.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/obj/Debug/net7.0/Lecture 09 - Generic Methods.genruntimeconfig.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 - Generic Methods/obj/Debug/net7.0/ref/Lecture 09 - Generic Methods.dll
