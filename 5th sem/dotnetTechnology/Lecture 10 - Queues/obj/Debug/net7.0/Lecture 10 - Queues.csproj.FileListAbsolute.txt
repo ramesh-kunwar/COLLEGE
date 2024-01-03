@@ -1,0 +1,15 @@
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/obj/Debug/net7.0/Lecture 10 - Queues.csproj.AssemblyReference.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/obj/Debug/net7.0/Lecture 10 - Queues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/obj/Debug/net7.0/Lecture 10 - Queues.AssemblyInfoInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/obj/Debug/net7.0/Lecture 10 - Queues.AssemblyInfo.cs
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/obj/Debug/net7.0/Lecture 10 - Queues.csproj.CoreCompileInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/bin/Debug/net7.0/Lecture 10 - Queues
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/bin/Debug/net7.0/Lecture 10 - Queues.deps.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/bin/Debug/net7.0/Lecture 10 - Queues.runtimeconfig.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/bin/Debug/net7.0/Lecture 10 - Queues.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/bin/Debug/net7.0/Lecture 10 - Queues.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/obj/Debug/net7.0/Lecture 10 - Queues.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/obj/Debug/net7.0/refint/Lecture 10 - Queues.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/obj/Debug/net7.0/Lecture 10 - Queues.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/obj/Debug/net7.0/Lecture 10 - Queues.genruntimeconfig.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 10 - Queues/obj/Debug/net7.0/ref/Lecture 10 - Queues.dll

@@ -1,0 +1,15 @@
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/bin/Debug/net7.0/Lecture 09 a - Dictionary
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/bin/Debug/net7.0/Lecture 09 a - Dictionary.deps.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/bin/Debug/net7.0/Lecture 09 a - Dictionary.runtimeconfig.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/bin/Debug/net7.0/Lecture 09 a - Dictionary.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/bin/Debug/net7.0/Lecture 09 a - Dictionary.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/obj/Debug/net7.0/Lecture 09 a - Dictionary.csproj.AssemblyReference.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/obj/Debug/net7.0/Lecture 09 a - Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/obj/Debug/net7.0/Lecture 09 a - Dictionary.AssemblyInfoInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/obj/Debug/net7.0/Lecture 09 a - Dictionary.AssemblyInfo.cs
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/obj/Debug/net7.0/Lecture 09 a - Dictionary.csproj.CoreCompileInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/obj/Debug/net7.0/Lecture 09 a - Dictionary.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/obj/Debug/net7.0/refint/Lecture 09 a - Dictionary.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/obj/Debug/net7.0/Lecture 09 a - Dictionary.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/obj/Debug/net7.0/Lecture 09 a - Dictionary.genruntimeconfig.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 09 a - Dictionary/obj/Debug/net7.0/ref/Lecture 09 a - Dictionary.dll
