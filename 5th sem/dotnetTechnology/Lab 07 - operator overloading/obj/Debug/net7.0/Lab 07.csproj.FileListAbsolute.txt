@@ -1,0 +1,30 @@
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/bin/Debug/net7.0/Lab 07
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/bin/Debug/net7.0/Lab 07.deps.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/bin/Debug/net7.0/Lab 07.runtimeconfig.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/bin/Debug/net7.0/Lab 07.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/bin/Debug/net7.0/Lab 07.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/obj/Debug/net7.0/Lab 07.csproj.AssemblyReference.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/obj/Debug/net7.0/Lab 07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/obj/Debug/net7.0/Lab 07.AssemblyInfoInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/obj/Debug/net7.0/Lab 07.AssemblyInfo.cs
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/obj/Debug/net7.0/Lab 07.csproj.CoreCompileInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/obj/Debug/net7.0/Lab 07.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/obj/Debug/net7.0/refint/Lab 07.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/obj/Debug/net7.0/Lab 07.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/obj/Debug/net7.0/Lab 07.genruntimeconfig.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07/obj/Debug/net7.0/ref/Lab 07.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/obj/Debug/net7.0/Lab 07.csproj.AssemblyReference.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/obj/Debug/net7.0/Lab 07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/obj/Debug/net7.0/Lab 07.AssemblyInfoInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/obj/Debug/net7.0/Lab 07.AssemblyInfo.cs
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/obj/Debug/net7.0/Lab 07.csproj.CoreCompileInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/obj/Debug/net7.0/Lab 07.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/obj/Debug/net7.0/refint/Lab 07.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/obj/Debug/net7.0/Lab 07.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/bin/Debug/net7.0/Lab 07
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/bin/Debug/net7.0/Lab 07.deps.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/bin/Debug/net7.0/Lab 07.runtimeconfig.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/bin/Debug/net7.0/Lab 07.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/bin/Debug/net7.0/Lab 07.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/obj/Debug/net7.0/Lab 07.genruntimeconfig.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lab 07 - operator overloading/obj/Debug/net7.0/ref/Lab 07.dll
