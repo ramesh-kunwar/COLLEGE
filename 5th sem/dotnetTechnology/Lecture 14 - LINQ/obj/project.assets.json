@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 13 - exception handling/Lecture 13.csproj",
-      "projectName": "Lecture 13",
-      "projectPath": "/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 13 - exception handling/Lecture 13.csproj",
+      "projectUniqueName": "/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/Lecture 14 - LINQ.csproj",
+      "projectName": "Lecture 14 - LINQ",
+      "projectPath": "/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/Lecture 14 - LINQ.csproj",
       "packagesPath": "/Users/rameshkunwar/.nuget/packages/",
-      "outputPath": "/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 13 - exception handling/obj/",
+      "outputPath": "/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rameshkunwar/.nuget/NuGet/NuGet.Config"

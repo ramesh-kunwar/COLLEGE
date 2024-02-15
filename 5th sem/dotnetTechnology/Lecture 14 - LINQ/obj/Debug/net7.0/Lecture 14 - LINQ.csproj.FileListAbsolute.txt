@@ -1,0 +1,15 @@
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/bin/Debug/net7.0/Lecture 14 - LINQ
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/bin/Debug/net7.0/Lecture 14 - LINQ.deps.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/bin/Debug/net7.0/Lecture 14 - LINQ.runtimeconfig.json
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/bin/Debug/net7.0/Lecture 14 - LINQ.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/bin/Debug/net7.0/Lecture 14 - LINQ.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/obj/Debug/net7.0/Lecture 14 - LINQ.csproj.AssemblyReference.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/obj/Debug/net7.0/Lecture 14 - LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/obj/Debug/net7.0/Lecture 14 - LINQ.AssemblyInfoInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/obj/Debug/net7.0/Lecture 14 - LINQ.AssemblyInfo.cs
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/obj/Debug/net7.0/Lecture 14 - LINQ.csproj.CoreCompileInputs.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/obj/Debug/net7.0/Lecture 14 - LINQ.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/obj/Debug/net7.0/refint/Lecture 14 - LINQ.dll
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/obj/Debug/net7.0/Lecture 14 - LINQ.pdb
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/obj/Debug/net7.0/Lecture 14 - LINQ.genruntimeconfig.cache
+/Users/rameshkunwar/Desktop/Programming/01 COLLEGE/5th sem/dotnetTechnology/Lecture 14 - LINQ/obj/Debug/net7.0/ref/Lecture 14 - LINQ.dll
