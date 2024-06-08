@@ -5,10 +5,10 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Lab01_02Example {
+public class Lab01_Example2 {
     public static void main(String[] args) {
         // String filePath = "/Users/username/logs/logfile.log";
-        String filePath = "/Library/Logs/LKDC-setup.log";
+        String filePath = "./demo.log";
         Map<String, Integer> pageVisitCounts = new HashMap<>();
 
         try {
