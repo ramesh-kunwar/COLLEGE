@@ -4,10 +4,6 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-/*
- * This program reads a log file and counts the number of times each page is visited.
- 
- */
 
 public class Lab01_Example2 {
     public static void main(String[] args) {
