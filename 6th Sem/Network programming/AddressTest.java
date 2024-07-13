@@ -1,3 +1,5 @@
+
+
 import java.net.*;
 public class AddressTest {
     public static int getVersion(InetAddress ia){
